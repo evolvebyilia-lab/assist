@@ -1,0 +1,6 @@
+{
+  "name": "ტატო — Georgian AI Companion",
+  "description": "ინტელექტუალური ქართულენოვანი პირადი AI ასისტენტი და ინტერაქტიული სამუშაო სივრცე",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
